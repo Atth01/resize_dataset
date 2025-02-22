@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Folder input dan output
-input_folder = "gambar"  # Folder yang berisi gambar-gambar
-output_folder = "hasil_resize"  # Folder untuk menyimpan hasil resize
+input_folder = "atribut"  # Folder yang berisi gambar-gambar
+output_folder = "hasil_resize1"  # Folder untuk menyimpan hasil resize
 
 # Pastikan folder output ada
 os.makedirs(output_folder, exist_ok=True)
