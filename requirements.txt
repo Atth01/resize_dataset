@@ -1,0 +1,4 @@
+# Optional:
+# python-dotenv
+# pillow
+opencv-python
